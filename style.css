@@ -1,0 +1,23 @@
+body {
+    background: linear-gradient(to right, red, yellow);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+h1{
+    text-transform: uppercase;
+}
+.button-success,
+.button-secondary {
+    border-radius: 4px;
+    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+}
+
+.button-success {
+    background: rgb(28, 184, 65);
+    color: white;
+}
+
+.button-secondary {
+    background: rgb(66, 184, 221);
+    color: black;
+}
